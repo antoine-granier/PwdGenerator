@@ -24,7 +24,7 @@
       </Label>
       <HBox fx:id="pwdContainer" prefHeight="100.0" prefWidth="200.0" spacing="10.0" GridPane.rowIndex="1">
          <children>
-            <TextField fx:id="result" alignment="CENTER" editable="false" maxHeight="1.7976931348623157E308" maxWidth="-Infinity" minWidth="-Infinity" opacity="0.75" prefWidth="300.0" style="-fx-background-color: rgba(0, 0, 0, 0.4);">
+            <TextField fx:id="result" alignment="CENTER" editable="false" maxHeight="1.7976931348623157E308" maxWidth="-Infinity" minWidth="-Infinity" opacity="0.75" prefWidth="300.0">
                <font>
                   <Font name="Verdana Bold" size="18.0" />
                </font>
